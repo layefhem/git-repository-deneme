@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	x = 2;
-	y = 3;
-	cout << "sonuc: " << x + y ;
+	x = 5;
+	y = 4;
+	cout << "sonuc: " << x - y ;
 }

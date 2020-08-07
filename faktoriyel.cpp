@@ -8,7 +8,7 @@ void faktoriyelAl() {
 		faktoriyel = faktoriyel * i;
 	}
 	
-	cout << "faktoriyel= " << faktoriyel;
+	cout << "faktoriyel= " << faktoriyel + 1;
 }
 
 int main() {
