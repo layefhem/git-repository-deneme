@@ -6,4 +6,4 @@ sadece bir denemedir
 *italik kelime* <br/>
 **kalın kelime**
 
-[link](www.google.com)
+[link](http://www.google.com)
